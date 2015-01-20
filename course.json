@@ -1,0 +1,10 @@
+{
+  "title": "Thinkster Blog",
+  "description": "The official thinkster blog.",
+  "url": "blog",
+  "twitter": "gothinkster",
+
+  "author": {
+    "github": "gothinkster"
+  }
+}
